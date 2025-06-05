@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}
+.center{
+    text-align: center;
+}
+
+body{
+    background-color: blanchedalmond;
+    font-size: 30px;
+}
+.chess img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+}
+.chessText {
+    text-align: center;
+}
+.gamingImg img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+}
+.gamingText {
+    text-align: center;
+}
+.ttimg img{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+}
+.tttext {
+    text-align: center;
+}
